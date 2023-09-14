@@ -1,0 +1,6 @@
+[submodule "autogen-fusion-sprites"]
+	path = autogen-fusion-sprites
+	url = https://github.com/infinitefusion/autogen-fusion-sprites
+[submodule "sprites"]
+	path = sprites
+	url = https://github.com/infinitefusion/sprites/
