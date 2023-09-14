@@ -1,3 +1,9 @@
+/*
+	Graciosly donated by the ever so kind Daena.
+	She made the https://if.daena.me/
+	She licensed it under the CC0
+*/
+
 const fs = require("fs");
 const path = require("path");
 const Marshal = require("./lib/Marshal.js");
